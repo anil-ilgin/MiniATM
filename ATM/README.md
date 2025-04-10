@@ -1,7 +1,11 @@
 ﻿### How to Run the Solution?
 
-- Open the terminal and navigate to the directory where the solution is located, and navigate in ATM.Server folder.
-- Run the following command to execute the solution:
+- Open the terminal and navigate to the directory where the solution is located.
+- Navigate to ATM.client folder and run the following:
+```
+npm install
+```
+- After installing required npm packages, navigate to ATM.Server folder and run the following command to execute the solution:
 ```
 dotnet restore
 ```
