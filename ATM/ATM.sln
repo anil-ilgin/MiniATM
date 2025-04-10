@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "atm.client", "atm.client\atm.client.esproj", "{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Server", "ATM.Server\ATM.Server.csproj", "{7B6ED3DF-2A3F-429D-863D-26B42FDA2A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFCCA15-C970-41A0-7FF2-6B5680BFBA42}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7B6ED3DF-2A3F-429D-863D-26B42FDA2A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6ED3DF-2A3F-429D-863D-26B42FDA2A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6ED3DF-2A3F-429D-863D-26B42FDA2A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3944C938-B356-4657-9597-7E89FEF3A8EB}
+	EndGlobalSection
+EndGlobal
