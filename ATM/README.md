@@ -9,11 +9,11 @@ npm install
 ```
 dotnet restore
 ```
--After restoring the packages, run the following command to build and run the solution:
+- After restoring the packages, run the following command to build and run the solution:
 ```
 dotnet run
 ```
-After a quick build, the solution will run and you will see the output in the terminal:
+- After a quick build, the solution will run and you will see the output in the terminal:
 
 ```
 Using launch settings from C:\Users\anilutku\source\repos\EnalyzerTask\ATM\ATM.Server\Properties\launchSettings.json...
