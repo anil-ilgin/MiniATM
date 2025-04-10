@@ -1,6 +1,6 @@
 ﻿### How to Run the Solution?
 
-- Open the terminal and navigate to the directory where the solution is located.
+- Open the terminal and navigate to the directory where the solution is located, and navigate in ATM.Server folder.
 - Run the following command to execute the solution:
 ```
 dotnet restore
